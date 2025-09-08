@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:02,500
+Welcome to our tutorial series.
+
+2
+00:00:02,501 --> 00:00:05,000
+Today we'll learn the basics of video editing.
+
+3
+00:00:05,001 --> 00:00:08,000
+Let's start with our first lesson: timeline management.
