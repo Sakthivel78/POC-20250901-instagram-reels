@@ -16,8 +16,9 @@
 # Prerequisites:
 1. Node.js 18+
 2. Fmpeg installed on your system
-3. HeyGen API account
-4. ElevenLabs API account
+3. HeyGen account
+4. ElevenLabs account
+5. Pexels account
   
 # FFmpeg Installation:
 
